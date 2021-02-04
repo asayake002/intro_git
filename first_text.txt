@@ -6,3 +6,5 @@ git commit
 
 git status
 git commit -v
+
+git rm
