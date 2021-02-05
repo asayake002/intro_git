@@ -4,3 +4,8 @@ git add
 git commit -v
 git rm
 git status
+git log --oneline
+git log -p first_text.txt
+git log -n 3
+git log --oneline -n 3
+git diff
