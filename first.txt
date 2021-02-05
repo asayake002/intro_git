@@ -10,5 +10,8 @@ git log -n 3
 git log --oneline -n 3
 git diff
 git diff HEAD
+git diff --staged
 git remote add origin https://github.com/asayake002/intro_git
 git push origin master
+git rm -r
+git rm --cached
