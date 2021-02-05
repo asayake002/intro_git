@@ -9,3 +9,4 @@ git log -p first_text.txt
 git log -n 3
 git log --oneline -n 3
 git diff
+git diff HEAD
